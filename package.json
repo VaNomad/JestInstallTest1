@@ -1,0 +1,27 @@
+{
+  "name": "jestinstalltest1",
+  "version": "0.0.1",
+  "description": "Installation test of Jest test framework",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaNomad/JestInstallTest1.git"
+  },
+  "keywords": [
+    "test",
+    "setup",
+    "environment"
+  ],
+  "author": "Sjur Hassel <sjur.hassel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaNomad/JestInstallTest1/issues"
+  },
+  "homepage": "https://github.com/VaNomad/JestInstallTest1#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
